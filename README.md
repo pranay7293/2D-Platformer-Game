@@ -22,15 +22,15 @@ This Game has 5 different levels to complete with different themes and designs.
 - Player has to collect the keys on platforms to score points.
 
 ## Level 1
-![Screenshot 2023-06-08 203404](https://github.com/pranay7293/2D-Platformer-Game/assets/119421688/61a8b3f8-9635-4687-97d5-ab21b47ceaef)
+![Screenshot 2023-06-08 203404](https://github.com/pranay7293/2D-Platformer-Game/assets/119421688/61a8b3f8-9635-4687-97d5-ab21b47ceaef) <br>
 ## Level 2
-![Screenshot 2023-06-08 203436](https://github.com/pranay7293/2D-Platformer-Game/assets/119421688/f3483b3a-5640-416e-9329-596a35f1a13d)
+![Screenshot 2023-06-08 203436](https://github.com/pranay7293/2D-Platformer-Game/assets/119421688/f3483b3a-5640-416e-9329-596a35f1a13d)  <br>
 ## Level 3
-![Screenshot 2023-06-08 203513](https://github.com/pranay7293/2D-Platformer-Game/assets/119421688/4412dc20-8baf-470d-afba-170d70bcc063)
+![Screenshot 2023-06-08 203513](https://github.com/pranay7293/2D-Platformer-Game/assets/119421688/4412dc20-8baf-470d-afba-170d70bcc063)  <br>
 ## Level 4
-![Screenshot 2023-06-08 203609](https://github.com/pranay7293/2D-Platformer-Game/assets/119421688/01f19934-5cee-45d6-9c5d-6f90a34ca90c)
+![Screenshot 2023-06-08 203609](https://github.com/pranay7293/2D-Platformer-Game/assets/119421688/01f19934-5cee-45d6-9c5d-6f90a34ca90c)  <br>
 ## Level 5
-![Screenshot 2023-06-08 203655](https://github.com/pranay7293/2D-Platformer-Game/assets/119421688/3f942d71-c775-417f-a56c-5e0c84765858)
+![Screenshot 2023-06-08 203655](https://github.com/pranay7293/2D-Platformer-Game/assets/119421688/3f942d71-c775-417f-a56c-5e0c84765858)  <br>
 
 
 
