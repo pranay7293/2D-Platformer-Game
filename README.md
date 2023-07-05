@@ -26,7 +26,7 @@ This Game has 5 different levels to complete with different themes and designs.
 ## Level 2
 ![Screenshot 2023-06-08 203436](https://github.com/pranay7293/2D-Platformer-Game/assets/119421688/f3483b3a-5640-416e-9329-596a35f1a13d)
 ## Level 3
-![Screenshot 2023-06-08 203609](https://github.com/pranay7293/2D-Platformer-Game/assets/119421688/92a3bdd6-94df-4a25-8722-eb0eaad82956)
+![Screenshot 2023-06-08 203513](https://github.com/pranay7293/2D-Platformer-Game/assets/119421688/4412dc20-8baf-470d-afba-170d70bcc063)
 ## Level 4
 ![Screenshot 2023-06-08 203609](https://github.com/pranay7293/2D-Platformer-Game/assets/119421688/01f19934-5cee-45d6-9c5d-6f90a34ca90c)
 ## Level 5
