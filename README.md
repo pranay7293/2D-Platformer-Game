@@ -1,2 +1,6 @@
 # 2D-Platformer-Game
-The 2D platformer game to be forked something like mario its a clean repo made for LTS version
+The game has 5 different levels with different themes and level designs. 
+
+[Click here to Play this Game] (https://pranay7293.itch.io/v1-2d-platformer)
+
+
